@@ -1,4 +1,4 @@
-<img src="https://github.com/calproductspace/website/blob/main/assets/img/logo/logo.png" width=150>
+<img src="https://github.com/calproductspace/website/blob/main/assets/img/logo/logo.png" width=300>
 
 ### UC Berkeley Product Management Organization
 
