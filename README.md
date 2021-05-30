@@ -1,2 +1,12 @@
-# website
-Repository for Product Space @ Berkeley's website. 
+### UC Berkeley Product Management Organization
+
+# Product Space @ Berkeley Website
+Welcome to the repository for the PS@B website. Here you will find the bootstrap files used to create the pages you see on our website. 
+
+## Usage
+To simply view the website, please navigate to the URL. If you'd like to make edits to the source code, please clone this repository to your machine.
+
+## Credit
+
+Bootstrap: We used the [Calvino template](https://colorlib.com/wp/template/calvino/) as the foundation for our website. 
+Iconography: The illustrations on the homepage came directly from the [Smash Illustrations](https://usesmash.com/) library.
