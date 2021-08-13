@@ -154,8 +154,12 @@ p {
 .timeline h2,
 .timeline h3 {
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin-bottom: 10px;
+}
+
+.timeline a {
+    color: #FF4495;
 }
 
 .timeline .event {
@@ -1575,7 +1579,7 @@ a {
 }
 
 a:hover {
-    color: #fff
+    color: #FF4495
 }
 
 a:focus,
