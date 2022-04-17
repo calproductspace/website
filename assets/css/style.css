@@ -4224,6 +4224,13 @@ hr {
     background-size: cover
 }
 
+.slider-careerbg {
+    background-image: url(../img/hero/careers.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover
+}
+
 .slider-applybg {
     background-image: url(../img/hero/apply.png);
     background-repeat: no-repeat;
