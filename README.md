@@ -12,3 +12,4 @@ To simply view the website, please navigate to the URL. If you'd like to make ed
 
 - Bootstrap: We used the [Calvino template](https://colorlib.com/wp/template/calvino/) as the foundation for our website. 
 - Iconography: The illustrations on the homepage came directly from the [Smash Illustrations](https://usesmash.com/) library.
+# nice_and_toasty_website
